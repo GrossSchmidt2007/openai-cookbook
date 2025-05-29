@@ -4,6 +4,18 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Multi-Agent Portfolio Collaboration with OpenAI Agents SDK
+  path: examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration.ipynb
+  date: 2025-05-28
+  authors:
+    - rajpathak-openai
+    - chelseahu-openai
+  tags:
+    - agents-sdk
+    - functions
+    - responses
+    - mutli-agent-collaboration
+
 - title: o3/o4-mini Function Calling Guide
   path: examples/o-series/o3o4-mini_prompting_guide.ipynb
   date: 2025-05-26
@@ -25,7 +37,7 @@
     - fine-tuning
     - reinforcement-learning-graders
 
-- title: Reinforcement Fine-tuning with the OpenAI API
+- title: Reinforcement Fine-Tuning for Conversational Reasoning with the OpenAI API
   path: examples/fine-tuned_qa/reinforcement_finetuning_healthbench.ipynb
   date: 2025-05-21
   authors:
@@ -2008,6 +2020,15 @@
   tags:
     - audio
     - speech
+
+- title: Evaluating Agents with Langfuse
+  path: examples/agents_sdk/evaluate_agents.ipynb
+  date: 2025-03-31
+  authors:
+    - jannik-maierhofer
+  tags:
+    - evals
+    - agents-sdk
 
 - title: GPT Actions library - Salesforce & Gong
   path: examples/chatgpt/gpt_actions_library/gpt_action_salesforce_gong.md
