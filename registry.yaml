@@ -3,6 +3,25 @@
 # This file is used to generate cookbook.openai.com. It specifies which paths we
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
+- title: Automate Jira ↔ GitHub with Codex
+  path: examples/codex/jira-github.ipynb
+  date: 2025-06-21
+  authors:
+    - alwell-kevin
+    - narenoai
+  tags:
+    - codex
+    - automation
+
+- title: Prompt Migration Guide
+  path: examples/Prompt_migration_guide.ipynb
+  date: 2025-06-26
+  authors:
+    - minh-hoque
+  tags:
+    - prompt
+    - completions
+    - responses
 
 - title: Fine-Tuning Techniques - Choosing Between SFT, DPO, and RFT (With a Guide to DPO)
   path: examples/Fine_tuning_direct_preference_optimization_guide.ipynb
@@ -86,7 +105,7 @@
     - evals
     - reinforcement
 
-- title: Guide to Using the Responses API's MCP Tool 
+- title: Guide to Using the Responses API's MCP Tool
   path: examples/mcp/mcp_tool_guide.ipynb
   date: 2025-05-21
   authors:
@@ -2195,3 +2214,42 @@
     - evals-api
     - responses
     - evals
+
+- title: Introduction to deep research in the OpenAI API
+  path: examples/deep_research_api/introduction_to_deep_research_api.ipynb
+  date: 2025-06-25
+  authors:
+    - glojain
+    - alwell-kevin
+  tags:
+    - deep-research-api
+    - responses
+    - mcp
+    - deep-research
+
+- title: Deep Research API with the Agents SDK
+  path: examples/deep_research_api/introduction_to_deep_research_api_agents.ipynb
+  date: 2025-06-25
+  authors:
+    - alwell-kevin
+    - glojain
+  tags:
+    - deep-research-api
+    - mcp
+    - deep-research
+    - agents
+    - agents-sdk
+
+- title: Building a Deep Research MCP Server
+  path: examples/deep_research_api/how_to_build_a_deep_research_mcp_server/README.md
+  date: 2025-06-25
+  authors:
+    - alwell-kevin
+    - glojain
+  tags:
+    - mcp
+    - deep-research-api
+    - responses
+    - deep-research
+    - agents
+    - agents-sdk
