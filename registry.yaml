@@ -9,6 +9,7 @@
   date: 2025-10-01
   authors:
     - jhall-openai
+    - charlie-openai
   tags:
     - agents-sdk
     - codex
@@ -2541,12 +2542,13 @@
     - images
 
 
-- title: Codex CLI to automatically fix CI failures
+- title: Use Codex CLI to automatically fix CI failures
   path: examples/codex/Autofix-github-actions.ipynb
   date: 2025-09-30
   authors:
     - himadri518
     - alwell-kevin
+    - charlie-openai
   tags:
     - codex
 
