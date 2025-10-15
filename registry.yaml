@@ -4,6 +4,14 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Building with Realtime Mini
+  path: examples/building_w_rt_mini/building_w_rt_mini.ipynb
+  date: 2025-10-11
+  authors:
+    - carter-oai
+  tags:
+    - gpt-realtime-mini 
+
 - title: Sora 2 Prompting Guide
   path: examples/sora/sora2_prompting_guide.ipynb
   date: 2025-10-06
@@ -13,6 +21,18 @@
   tags:
     - sora
     - prompt
+
+- title: Using PLANS.md for multi-hour problem solving
+  path: articles/codex_exec_plans.md
+  date: 2025-10-07
+  authors:
+    - aaronfriel
+  tags:
+    - codex
+    - gpt-5
+    - planning
+    - documentation
+    - agents
 
 - title: Building Consistent Workflows with Codex CLI & Agents SDK
   path: examples/codex/codex_mcp_agents_sdk/building_consistent_workflows_codex_cli_agents_sdk.ipynb
