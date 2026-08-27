@@ -315,6 +315,7 @@
     - promptfoo
     - partners
     - security
+  archived: true
 
 - title: Realtime Eval Guide
   path: examples/Realtime_eval_guide.ipynb
@@ -356,6 +357,7 @@
     - transcription
     - speech
     - audio
+  archived: true
 
 - title: Self-Evolving Agents - A Cookbook for Autonomous Agent Retraining
   path: examples/partners/self_evolving_agents/autonomous_agent_retraining.ipynb
@@ -374,6 +376,7 @@
     - llmops
     - prompt-engineering
     - agent-retraining
+  archived: true
 
 - title: User guide for gpt-oss-safeguard
   path: articles/gpt-oss-safeguard-guide.md
@@ -395,6 +398,7 @@
   tags:
     - agentkit
     - evals
+  archived: true
 
 - title: Building with Realtime Mini
   path: examples/building_w_rt_mini/building_w_rt_mini.ipynb
@@ -418,6 +422,7 @@
   tags:
     - sora
     - prompt
+  archived: true
 
 - title: Using PLANS.md for multi-hour problem solving
   path: articles/codex_exec_plans.md
@@ -436,6 +441,7 @@
 - title: Building Consistent Workflows with Codex CLI & Agents SDK
   path: examples/codex/codex_mcp_agents_sdk/building_consistent_workflows_codex_cli_agents_sdk.ipynb
   slug: building-consistent-workflows-codex-cli-agents-sdk
+  archived: true
   date: 2025-10-01
   authors:
     - jhall-openai
@@ -481,6 +487,7 @@
 - title: Realtime Prompting Guide
   path: examples/Realtime_prompting_guide.ipynb
   slug: realtime-prompting-guide
+  archived: true
   date: 2026-02-25
   authors:
     - minh-hoque
@@ -493,6 +500,7 @@
 - title: "Fine-tune gpt-oss for better Korean language performance"
   path: articles/gpt-oss/fine-tune-korean.ipynb
   slug: fine-tune-korean
+  archived: true
   date: 2025-08-26
   authors:
     - heejingithub
@@ -576,6 +584,7 @@
     - gpt-5
     - functions
     - reasoning
+  archived: true
 
 - title: How to run gpt-oss-20b on Google Colab
   path: articles/gpt-oss/run-colab.ipynb
@@ -724,6 +733,7 @@
     - responses
     - agents-sdk
     - tracing
+  archived: true
 
 - title: Automate Jira ↔ GitHub with Codex
   path: examples/codex/jira-github.ipynb
@@ -735,6 +745,7 @@
   tags:
     - codex
     - automation
+  archived: true
 
 - title: Prompt Migration Guide
   path: examples/Prompt_migration_guide.ipynb
@@ -747,6 +758,7 @@
     - prompt
     - completions
     - responses
+  archived: true
 
 - title: Fine-Tuning Techniques - Choosing Between SFT, DPO, and RFT (With a Guide to DPO)
   path: examples/Fine_tuning_direct_preference_optimization_guide.ipynb
@@ -756,6 +768,7 @@
     - alexl-oai
   tags:
     - fine-tuning
+  archived: true
 
 - title: MCP-Powered Agentic Voice Framework
   path: examples/partners/mcp_powered_voice_agents/mcp_powered_agents_cookbook.ipynb
@@ -771,6 +784,7 @@
     - agents-sdk
     - functions
     - tracing
+  archived: true
 
 - title: Building a Supply-Chain Copilot with OpenAI Agent SDK and Databricks MCP Servers
   path: examples/mcp/databricks_mcp_cookbook.ipynb
@@ -783,6 +797,7 @@
     - mcp
     - tracing
     - security
+  archived: true
 
 - title: Eval Driven System Design - From Prototype to Production
   path: examples/partners/eval_driven_system_design/receipt_inspection.ipynb
@@ -801,6 +816,7 @@
     - responses
     - functions
     - tracing
+  archived: true
 
 - title: Multi-Agent Portfolio Collaboration with OpenAI Agents SDK
   path: examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration.ipynb
@@ -815,6 +831,7 @@
     - functions
     - responses
     - mutli-agent-collaboration
+  archived: true
 
 - title: o3/o4-mini Function Calling Guide
   path: examples/o-series/o3o4-mini_prompting_guide.ipynb
@@ -841,6 +858,7 @@
     - reinforcement-learning
     - fine-tuning
     - reinforcement-learning-graders
+  archived: true
 
 - title: Reinforcement Fine-Tuning for Conversational Reasoning with the OpenAI API
   path: examples/fine-tuned_qa/reinforcement_finetuning_healthbench.ipynb
@@ -854,6 +872,7 @@
     - qa
     - evals
     - reinforcement
+  archived: true
 
 - title: Guide to Using the Responses API's MCP Tool
   path: examples/mcp/mcp_tool_guide.ipynb
@@ -865,6 +884,7 @@
   tags:
     - mcp
     - security
+  archived: true
 
 - title: Image Understanding with RAG
   path: examples/multimodal/image_understanding_with_rag.ipynb
@@ -877,6 +897,7 @@
     - images
     - RAG
     - vision
+  archived: true
 
 - title: Better performance from reasoning models using the Responses API
   path: examples/responses_api/reasoning_items.ipynb
@@ -887,6 +908,7 @@
   tags:
     - responses
     - functions
+  archived: true
 
 - title: Context Summarization with Realtime API
   path: examples/Context_summarization_with_realtime_api.ipynb
@@ -898,6 +920,7 @@
     - audio
     - speech
     - tiktoken
+  archived: true
 
 - title: Comparing Speech-to-Text Methods with the OpenAI API
   path: examples/Speech_transcription_methods.ipynb
@@ -910,6 +933,7 @@
     - audio
     - speech
     - agents-sdk
+  archived: true
 
 - title: Practical Guide for Model Selection for Real‑World Use Cases
   path: examples/partners/model_selection_guide/model_selection_guide.ipynb
@@ -929,6 +953,7 @@
     - insurance
     - legal
     - pharma
+  archived: true
 
 - title: Evals API Use-case - Detecting prompt regressions
   path: examples/evaluation/use-cases/regression.ipynb
@@ -987,6 +1012,7 @@
     - functions
     - pinecone
     - web-search
+  archived: true
 
 - title: Automating Dispute Management with Agents SDK and Stripe API
   path: examples/agents_sdk/dispute_agent.ipynb
@@ -1242,6 +1268,7 @@
   tags:
     - completions
     - embeddings
+  archived: true
 
 - title: How to stream completions
   path: examples/How_to_stream_completions.ipynb
@@ -3155,6 +3182,7 @@
   tags:
     - completions
     - security
+  archived: true
 
 - title: Doing RAG on PDFs using File Search in the Responses API
   path: examples/File_Search_Responses.ipynb
@@ -3216,6 +3244,7 @@
   tags:
     - evals
     - agents-sdk
+  archived: true
 
 - title: GPT Actions library - Salesforce & Gong
   path: examples/chatgpt/gpt_actions_library/gpt_action_salesforce_gong.md
@@ -3239,6 +3268,7 @@
   tags:
     - responses
     - api
+  archived: true
 
 - title: Generate images with GPT Image
   path: examples/Generate_Images_With_GPT_Image.ipynb
@@ -3274,6 +3304,7 @@
     - agents
     - agents-sdk
     - parallel-agents
+  archived: true
 
 - title: Practical guide to data-intensive apps with the Realtime API
   path: examples/Data-intensive-Realtime-apps.ipynb
@@ -3367,6 +3398,7 @@
     - responses
     - mcp
     - deep-research
+  archived: true
 
 - title: Deep Research API with the Agents SDK
   path: examples/deep_research_api/introduction_to_deep_research_api_agents.ipynb
@@ -3381,6 +3413,7 @@
     - deep-research
     - agents
     - agents-sdk
+  archived: true
 
 - title: Building a Deep Research MCP Server
   path: examples/deep_research_api/how_to_build_a_deep_research_mcp_server/README.md
@@ -3396,6 +3429,7 @@
     - deep-research
     - agents
     - agents-sdk
+  archived: true
 
 - title: Generate images with high input fidelity
   path: examples/Generate_Images_With_High_Input_Fidelity.ipynb
@@ -3406,10 +3440,12 @@
     - katiagg
   tags:
     - images
+  archived: true
 
 - title: Use Codex CLI to automatically fix CI failures
   path: examples/codex/Autofix-github-actions.ipynb
   slug: autofix-github-actions
+  archived: true
   date: 2025-09-30
   authors:
     - himadri518
@@ -3421,6 +3457,7 @@
 - title: Building resilient prompts using an evaluation flywheel
   path: examples/evaluation/Building_resilient_prompts_using_an_evaluation_flywheel.md
   slug: building-resilient-prompts-using-an-evaluation-flywheel
+  archived: true
   date: 2025-10-06
   authors:
     - neelk-oai
@@ -3439,6 +3476,7 @@
   tags:
     - codex
     - security
+  archived: true
 
 - title: Context Engineering for Personalization - State Management with Long-Term Memory Notes
   path: examples/agents_sdk/context_personalization.ipynb
@@ -3458,6 +3496,7 @@
   tags:
     - agents-sdk
     - security
+  archived: true
 
 - title: GPT-5.1 Prompting Guide
   path: examples/gpt-5/gpt-5-1_prompting_guide.ipynb
@@ -3467,6 +3506,7 @@
     - samarth-oai
   tags:
     - gpt-5.1
+  archived: true
 
 - title: Codex Prompting Guide
   path: examples/gpt-5/codex_prompting_guide.ipynb
@@ -3519,6 +3559,7 @@
     - emreokcular
   tags:
     - gpt-5.2
+  archived: true
 
 - title: Gpt-image-1.5 Prompting Guide
   path: examples/multimodal/image-gen-1.5-prompting_guide.ipynb
@@ -3532,6 +3573,7 @@
   tags:
     - images
     - vision
+  archived: true
 
 - title: Prompt Personalities
   path: examples/gpt-5/prompt_personalities.ipynb
@@ -3561,6 +3603,7 @@
 - title: Skills in OpenAI API
   path: examples/skills_in_api.ipynb
   slug: skills-in-api
+  archived: true
   description: Cookbook for building skills with the OpenAI API.
   date: 2026-02-10
   authors:
@@ -3573,6 +3616,7 @@
 - title: Prompt Caching 201
   path: examples/Prompt_Caching_201.ipynb
   slug: prompt-caching-201
+  archived: true
   description: Cookbook for improving prompt caching hit rate, latency, and cost.
   date: 2026-02-18
   authors:
