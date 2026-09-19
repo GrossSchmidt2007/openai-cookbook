@@ -3702,7 +3702,6 @@
 - title: Skills in OpenAI API
   path: examples/skills_in_api.ipynb
   slug: skills-in-api
-  archived: true
   description: Cookbook for building skills with the OpenAI API.
   date: 2026-02-10
   authors:
@@ -3803,6 +3802,18 @@
   tags:
     - evals
     - promptfoo
+
+- title: Optimizing Customer Support Agents for Cost and Quality
+  path: examples/agent_optimization/optimizing_agents_for_cost_and_quality.ipynb
+  slug: optimizing_agents_for_cost_and_quality
+  description: Optimize agents on cost, latency and performance.
+  date: 2026-09-14
+  authors:
+    - emreokcular
+    - lara-openai
+  tags:
+    - evals
+    - agents
 
 - title: GPT-Live evaluation guide
   path: examples/audio/voice_agent_evaluation.md
